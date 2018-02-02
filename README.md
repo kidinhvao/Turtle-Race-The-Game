@@ -13,6 +13,10 @@ https://drive.google.com/file/d/1rX1-xQkygn1vg5FpPrLFiL-QdpgScsgA/view?usp=shari
 Please download the wav file, put it in the same dictionary with the .py main file
 
 
+# Project Plan
+https://app.hacknplan.com/p/49560/summary
+
+
 # About
 Develop Team: NekoNeko Team
 
