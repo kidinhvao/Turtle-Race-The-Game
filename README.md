@@ -7,14 +7,14 @@ This game is about 4 turtles race againts others. Almost everything is automated
 
 
 # Requiments
-[Link][https://drive.google.com/file/d/1rX1-xQkygn1vg5FpPrLFiL-QdpgScsgA/view?usp=sharing]
+[Link](https://drive.google.com/file/d/1rX1-xQkygn1vg5FpPrLFiL-QdpgScsgA/view?usp=sharing)
 
 
 Please download the wav file, put it in the same dictionary with the .py main file
 
 
 # Project Plan
-[HacknPlan][https://app.hacknplan.com/p/49560/summary]
+[HacknPlan](https://app.hacknplan.com/p/49560/summary)
 
 
 # About
