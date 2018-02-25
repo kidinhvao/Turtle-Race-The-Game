@@ -22,7 +22,7 @@ User can name the turtles, the name **cannot** have more than **14** characters.
 ## Bet
 
 
-User can bet for 1 turtle.
+User can bet for 1 turtle. Try your best to guess.
 
 
 - [x] **Completed**
@@ -31,7 +31,16 @@ User can bet for 1 turtle.
 ## BGMs
 
 
-This game have one BGM when racing and one BGM for winning.
+This game have one BGM when the turtles are racing and one BGM for winning scence.
+
+
+- [x] **Completed**
+
+
+## Graph
+
+
+After the game result, there will be pop-ups to announce the winning turtle, the finish time and 2 graph, the bar chart show us the score of the turlte, the pie chart show us the 
 
 
 - [x] **Completed**
